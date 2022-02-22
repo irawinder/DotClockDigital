@@ -1,2 +1,5 @@
-# dotParade
- Miwa's Dot Parade
+# dotClockDigital
+A Digital Dot Clock
+
+Page is Live here:
+https://irawinder.github.io/DotClockDigital/
