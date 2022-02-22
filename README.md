@@ -1,2 +1,2 @@
-# dotParade
- Miwa's Dot Parade
+# dotClockDigital
+A Digital Dot Clock
