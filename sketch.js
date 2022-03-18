@@ -122,7 +122,7 @@ function init() {
   
   for (let i=0; i<phrases.length; i++) {
     let x = width/2;
-    let y = (1 + i) * height / (phrases.length + 1) - textScaler * IDEAL_TEXT_SIZE;
+    let y = (1 + i) * height / (phrases.length + 1) - textScaler * IDEAL_TEXT_SIZE / 2;
     phrases[i].location.x = x;
     phrases[i].location.y = y;
   }
